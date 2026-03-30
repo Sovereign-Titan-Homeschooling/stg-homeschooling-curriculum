@@ -1,0 +1,32 @@
+#!/bin/bash
+
+# --- MAKRONESIA SOVEREIGN DASHBOARD ---
+# Integrated Control for STG bswcorp
+
+while true; do
+    echo "=================================================="
+    echo "🏛️  MAKRONESIA SOVEREIGN COMMAND CENTER (STG)"
+    echo "=================================================="
+    echo "1. [VETO]  Eksekusi Keputusan Quorum-State"
+    echo "2. [LEDGER] Input Hasil Tambang Robot (Accounting)"
+    echo "3. [ABSEN] Check-in Harian (Attendance)"
+    echo "4. [MAPS]  Lihat Peta Kekayaan Asteroid"
+    echo "5. [DECRYPT] Baca Pesan Rahasia Warisan"
+    echo "6. [SYNC]  Sinkronisasi Data ke GitHub bswcorp"
+    echo "7. [EXIT]  Keluar dari Pusat Komando"
+    echo "--------------------------------------------------"
+    read -p "Pilih Opsi Komando (1-7): " opt
+
+    case $opt in
+        1) ./scripts/veto_engine.sh ;;
+        2) ./scripts/robot_accounting.sh ;;
+        3) ./scripts/checkin.sh ;;
+        4) cat modules/major-administration/astronomy-maps/primary_targets.md ;;
+        5) echo "Vmtwak9WUlZNVlZpUm1SVVpXeFZOVlJIVWtoV2JHeDBaVVV3ZDAxV1dqVlRiV2d3WVRGYWRGSnRUbGhpUjBwdlZtMXdUMU13WkhCYVJXUlVZa1pXV0ZkcldsaGlSMEpWVm14d2MxWnNXbEpaTVVwTFlVWmtWMDFFVWpOV01WSlhWVzVPV0ZKc1dtRlpNV1J6VmpKMGExWnJXbkpPVm1SM1ZqSk9WbVJIVWtoV2JHeDBWbTEwVDAxV1drSlZSbXhYVmxab1dGWnNXbEpaTVVwTFZteHdTMVl3WkhCYVJXUlVZa1pXV0ZkcldsaGlSMEpW" | base64 -d | base64 -d && echo "" ;;
+        6) git add . && git commit -m "Auto-Sync from STG Dashboard" && git push origin main && echo "✅ Sinkronisasi Global Berhasil." ;;
+        7) echo "Kedaulatan tetap terjaga. Keluar..."; break ;;
+        *) echo "Opsi tidak valid." ;;
+    esac
+    echo "=================================================="
+    read -p "Tekan [ENTER] untuk kembali ke Menu Utama"
+done
