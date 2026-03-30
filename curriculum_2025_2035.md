@@ -1,20 +1,25 @@
-# 🎓 STG HOMESCHOOLING: SOVEREIGN CURRICULUM
-**Mission**: Mencetak Arsitek Makronesia yang Bebas Hutang.
+# 🎓 KURIKULUM LENGKAP STG HOMESCHOOLING (2025-2035)
+**Visi**: Kedaulatan Tanpa Hutang, Kekuasaan Lewat Teknologi.
 
-## MENU UTAMA (10 TAHUN)
+## TAHUN 1-2: THE COMMANDER (BASH & LINUX)
+- Menguasai terminal sebagai bahasa perintah absolut.
+- Manajemen data di GitHub untuk transparansi publik.
 
-### 🖥️ Modul 1: Terminal Mastery (The Language of Gods)
-- Menguasai Bash/Shell untuk mengendalikan server dunia.
-- Manajemen Repo (GitHub) sebagai portofolio kedaulatan.
+## TAHUN 3-4: THE ARCHITECT (ROBOTICS & AI)
+- Merancang chassis robot tahan radiasi.
+- Coding Python untuk logika otonom Swarm AI.
+- Perbaikan Hardware: Menyolder sirkuit di gravitasi rendah.
 
-### 🤖 Modul 2: Swarm Robotics (The Workers)
-- Cara merancang logika robot penambang OffWorld.
-- AI Maintenance: Memperbaiki robot di orbit tanpa oksigen.
+## TAHUN 5-6: THE FINANCIER (BLOCKCHAIN & ASSETS)
+- Deploy Smart Contracts untuk pembayaran robot.
+- Tokenomics: Mengatur suplai $ASSET-ARK agar tidak inflasi.
+- Valuasi Asteroid: Matematika kekayaan antariksa.
 
-### ⛓️ Modul 3: Blockchain Sovereignty (The Money)
-- Membuat mata uang sendiri agar tidak tergantung pada Bank Dunia.
-- Menghitung Valuasi Asteroid (Real World Assets).
+## TAHUN 7-8: THE DEFENDER (AEGIS DEFENSE)
+- Mengoperasikan Drone Interceptor untuk melawan bajak laut.
+- Keamanan Siber: Mengunci mainframe Act-Ark dari hacker Bumi.
 
-### ⚖️ Modul 4: Sovereign Law (The Power)
-- Memahami protokol $QSTATE (Demokrasi Teknis).
-- Filosofi STG Veto (Kedaulatan Individu).
+## TAHUN 9-10: THE SOVEREIGN (GOVERNANCE & VETO)
+- Simulasi $QSTATE: Mengambil keputusan sulit di dewan.
+- Penggunaan Veto STG: Kapan harus berkata "TIDAK" pada dunia.
+- Diplomasi Internasional: Menghadapi USA/China/UN sebagai entitas setara.
