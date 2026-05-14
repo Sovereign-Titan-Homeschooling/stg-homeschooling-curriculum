@@ -1,2 +1,18 @@
 
 content/media/external/downloads/10382
+
+
+/stg-homeschooling-curriculum
+├── /theory
+│   ├── metafisika-dasar.md
+│   └── metaportasi-philosophy.md
+├── /quantum-binary-machinery
+│   ├── algorithms/ (Python/Q# simulation)
+│   └── logic-gates/
+├── /blockchain-lab
+│   ├── contracts/ (Q-Day resistant code)
+│   └── minting-logic/ (Quantum halving system)
+├── /resources
+│   └── whitepapers/
+└── /community
+    └── contribution-guide.md
