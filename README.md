@@ -52,3 +52,30 @@ Semua materi dilindungi oleh **Makronesia Sovereign Hybrid License**. Baca [LEGA
 | 4. Reward Distribution | ``docs/demo-reward.md`` | Menjelaskan multiplier reward tokenomics |
 | 5. Governance Participation | ``docs/demo-governance.md`` | Menjelaskan voting power mahasiswa |
 | 6. Demo IBW Showcase | ``docs/demo-ibw.md`` | Menjelaskan alur end‑to‑end untuk presentasi IBW |
+
+
+---
+
+## 📚 Fondasi Kurikulum (Aset Eksisting)
+
+Untuk memahami dasar-dasar pendidikan yang telah kami bangun sebelum memasuki fase Quantum, silakan akses materi awal berikut:
+
+*   **[Rencana Induk Kurikulum 2025-2035](./curriculum_2025_2035.md)**: Visi jangka panjang pendidikan berdaulat.
+*   **[Rencana Pelajaran Mingguan Tahun 1](./Year_1_Weekly_Lesson_Plan.md)**: Struktur jadwal harian untuk regenerasi.
+*   **[Lembar Kerja Minggu ke-1](./Worksheet_Week_1.md)**: Contoh implementasi tugas praktis bagi siswa.
+*   **[Legal Terms & Syarat Ketentuan](./LEGAL_TERMS.md)**: Kerangka hukum dan etika penggunaan kurikulum.
+
+Semua file di atas merupakan bagian integral dari ekosistem **STG Homeschooling** yang terus berkembang.
+
+---
+
+## 🛠 Status Pengembangan
+| Komponen | Status | Jalur File |
+| :--- | :--- | :--- |
+| Core Homeschooling | ✅ Stabil | `/modules` & Root |
+| Metafisika & Metaportasi | 🚧 Draft | `/docs/sovereign-vault` |
+| Quantum Binary Machinery | 🛠 Riset | `/scripts` |
+
+---
+**Pesan untuk Kontributor:**  
+Jangan ragu untuk memeriksa folder `scripts/` dan `exams/` yang sudah ada untuk melihat bagaimana pola pengujian dan skrip otomatisasi kami dijalankan sebelumnya.
