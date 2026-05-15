@@ -25,6 +25,52 @@ Tulisan ini adalah sebuah cukilan kecil 🍼 di tengah samudra ilmu pengetahuan.
 ## 🚀 Visi Utama
 Mempersiapkan individu berdaulat yang mampu bernavigasi di dunia pasca-tradisional, tahan terhadap guncangan ekonomi digital (Q-Day), dan menguasai algoritma modern yang melampaui logika biner klasik.
 
+
+# 📑 JURNAL & SILABUS: METAPORTASI (HARI 181-365)
+
+## 📌 BAB 1: PENDAHULUAN
+
+### 1.1 Latar Belakang Masalah
+Eksperimen teleportasi di laboratorium global saat ini masih berfokus pada pemindahan informasi status kuantum objek non-hayati. Teknologi *Quantum Teleportation* saat ini baru mampu memindahkan status kuantum dari partikel subatomik seperti foton atau elektron, dan belum mampu memindahkan fisik dari benda mati secara makroskopis, apalagi makhluk hidup. Meskipun ilmuwan berhasil mengembangkan metode teleportasi makroskopis untuk ribuan atom menggunakan *Bose-Einstein Condensate*, teknologi tersebut masih memiliki jarak yang sangat jauh untuk bisa diaplikasikan pada struktur biologi kompleks yang bernyawa.
+
+Ketika batasan Fisika Kuantum menemui jalan buntu di hadapan struktur organisme hidup, ruang akademik mulai membuka diskusi mengenai Metafisika Sains. Para akademisi mendiskusikan konsep *non-locality*—kondisi di mana dua partikel terhubung secara instan tanpa batas ruang fisik—sebagai bagian dari *Metaphysics of Quantum Mechanics*. Pada titik inilah, ketika fisika konvensional tidak lagi mampu menjelaskan realitas ruang secara utuh, ia melebur menjadi Metafisika.
+
+### 1.2 Kebaruan Riset (Deklarasi Metaportasi)
+Celah riset inilah yang ingin diisi oleh kurikulum METAPORTASI. Istilah **Metaportasi** dideklarasikan bukan untuk meniru teleportasi benda mati, melainkan sebuah studi spekulatif-terstruktur mengenai bagaimana ruang dan kesadaran makhluk hidup berinteraksi setelah proses pelipatan dimensi (*spatial folding*), sebuah konsep yang selaras dengan prinsip anyaman ruang-waktu (*Holographic Principle*).
+
+Tulisan ini adalah sebuah cukilan kecil 🍼 di tengah samudra ilmu pengetahuan. Namun, ia diletakkan secara jujur untuk memicu keberanian berpikir bagi generasi masa depan (*GLBExt Generation*).
+
+### 1.3 Referensi & Acuan Sitasi
+*   **[Nature Reviews Physics](https://nature.com):** Batasan status teknologi kuantum foton dan elektron.
+*   **[NYU Shanghai Research](https://nyu.edu):** Eksperimen Bose-Einstein Condensate pada objek makroskopis.
+*   **[Zenodo Preprint Archive](https://zenodo.org):** Diskursus ilmiah mengenai *Quantum Metaphysics*.
+*   **[PhilSci Archive](https://pitt.edu):** Metafisika sains saat fisika menemui batas realitas.
+*   **[Medium Science Section](https://medium.com):** Komparasi visual teori struktur pelipatan dimensi geometri ruang.
+
+---
+
+## 🛠️ SILABUS HOME SCHOOLING (HARI 181–365)
+*Target: Pengenalan "Ilmu Gelap", Metafisika, & Publikasi Komunitas*
+
+### 📅 Fase 3A: Materi Gelap & Metafisis (Hari 181–240)
+*   **Topik 1:** Batas indra manusia menghadapi materi terselubung ("Ilmu Gelap").
+*   **Topik 2:** Dasar koneksi antar-entitas tanpa jarak fisik (*Non-Locality*).
+*   **Topik 3:** Komparasi teleportasi atom mati vs kesadaran organik makhluk hidup.
+*   *Target Output:* Siswa mampu menulis ringkasan ulasan artikel riset internasional.
+
+### 📅 Fase 3B: Seni Melipat Ruang (Hari 241–300)
+*   **Topik 1:** Pemahaman geometri ruang melengkung (Geometri Non-Euclidean).
+*   **Topik 2:** Praktik origami metaportasi (Menghubungkan Titik A ke Titik B secara fisik).
+*   **Topik 3:** Penerapan kode pemrograman sederhana untuk visualisasi matematika melipat.
+*   *Target Output:* Dokumentasi foto/video hasil lipatan diunggah ke repositori GitHub.
+
+### 📅 Fase 3C: Finalisasi Jurnal & Kesiapan Publik (Hari 301–365)
+*   **Topik 1:** Aturan sitasi ilmiah, pencegahan plagiarisme, dan kejujuran sumber data.
+*   **Topik 2:** Penyusunan bab kesimpulan akhir serta rekomendasi proyek masa depan.
+*   **Topik 3:** Pengemasan draf majalah (*Malogazine*) untuk publikasi terbuka komunitas.
+*   *Target Output:* Dokumen utuh siap tayang di internet pada target hari ke-365.
+*   
+
 ## 📂 Struktur Repositori (Monorepo)
 
 Berdasarkan struktur yang ada, repositori ini dibagi menjadi beberapa zona inti:
